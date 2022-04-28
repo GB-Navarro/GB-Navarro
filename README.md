@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**GB-Navarro/GB-Navarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Gabriel Navarro! 👋
 
-Here are some ideas to get you started:
+### 🔭 Eu sou um futuro engenheiro de software e atualmente estudo desenvolvimento de aplicações web na Driven.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📔  Fora os meus estudos na Driven, eu também estudo matemática pura e computação na Universidade de São Paulo.
+
+### 🤯 Sobre os meus estudos em matemática e computação, eles são motivados pela minha curiosidade e também pela minha fascinação em ~tentar~ resolver problemas complexos e aprender com isso.
+
+#### 💻 Por aqui voces vão conseguir ver alguns dos meus projetos pessoais, tanto os que foram desenvolvidos ao longo da minha formação, quanto os que eu desenvolvi por conta própria.
+
+#### 🙅 Atualmente, eu desenvolvo projetos web usando JS, mais especificamente usando React e Node.js . Contudo, também possuo conhecimento em C e em Python.
+
+#### 📫 Meu Site Pessoal: 
+#### 📫 Linkedin: 
+#### 📫 Instagram: 
+
+#### ~⚡ Fato divertido sobre mim:~ 
+
