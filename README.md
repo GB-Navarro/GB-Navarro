@@ -1,5 +1,6 @@
 
-# Hey, I'm Gabriel Navarro! 👋
+#
+# Olá, me chamo Gabriel Navarro! 👋 Fico feliz que tenha vindo me conhecer 😆
 
 ### 🔭 Eu sou um futuro engenheiro de software e atualmente estudo desenvolvimento de aplicações web na Driven.
 
@@ -17,3 +18,22 @@
 
 #### ~⚡ Fato divertido sobre mim:~ 
 
+#
+
+# Hey, I'm Gabriel Navarro! 👋 I'm glad you came to meet me 😆
+
+### 🔭 I am a future software engineer and currently studying web application development at Driven.
+
+### 📔 Apart from my studies at Driven, I also study pure mathematics and computing at the University of São Paulo.
+
+### 🤯 About my studies in math and computing, they are motivated by my curiosity and also my fascination with ~trying~ to solve complex problems and learn from it.
+
+#### 💻 Here you will be able to see some of my personal projects, both those that were developed during my training, and those that I developed on my own.
+
+#### 🙅 I currently develop web projects using JS, more specifically using React and Node.js . However, I also have knowledge in C and Python.
+
+#### 📫 My Personal Website:
+#### 📫 Linkedin:
+#### 📫 Instagram:
+
+#### ~⚡ Fun fact about me :~
