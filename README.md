@@ -1,6 +1,6 @@
 
 #
-# Olá, me chamo Gabriel Navarro! 👋 Fico feliz que tenha vindo me conhecer 😆
+# Olá, me chamo Gabriel Navarro! 👋 
 
 ### 🔭 Eu sou um futuro engenheiro de software e atualmente estudo desenvolvimento de aplicações web na Driven.
 
