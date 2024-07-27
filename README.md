@@ -95,7 +95,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GB-Navarro/GB-Navarro/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github.com/GB-Navarro/GB-Navarro/blob/main/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
