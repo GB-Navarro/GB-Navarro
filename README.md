@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ ~~Creating bugs since my first line of code~~ and learning from every one!<br><br>📚 I’m passionate about learning mathematics, artificial intelligence, data science, and software development.<br><br>🎯 Currently, I am focusing on expanding my knowledge in machine learning and its various applications, as well as parallel computing.<br><br>👦🏻 When I'm not coding, you’ll likely find me indulging in adventure sports, discovering new places, or diving into fascinating topics. I’m particularly intrigued by the applications of AI in finance, robotics, and rocket science.<br><br>🚀 My goal is to become a machine learning engineer, specializing in one of my areas of interest. I’m also eager to contribute to open-source projects and collaborate with other tech enthusiasts.</p>
+<p align="left">✨  C̶r̶e̶a̶t̶i̶n̶g̶ ̶b̶u̶g̶s̶ ̶s̶i̶n̶c̶e̶ ̶m̶y̶ ̶f̶i̶r̶s̶t̶ ̶l̶i̶n̶e̶ ̶o̶f̶ ̶c̶o̶d̶e̶ and learning from every one!<br><br>📚 I enjoy learning more and more about mathematics, artificial intelligence, data science and software development.<br><br>🎯 Currently, I am focusing on expanding my knowledge in machine learning and its various applications, as well as parallel computing.<br><br>👦🏻 When I'm not coding, you'll probably find me playing adventure sports, discovering new places, or learning more about my topics of interest. Personally, I enjoy learning how to create AI models to solve problems in areas that interest me, such as finance and robotics.<br><br>🚀 My goal is to become a machine learning engineer, specializing in one of my areas of interest. I’m also eager to contribute to open-source projects and collaborate with other tech enthusiasts.</p>
 
 ###
 
@@ -77,11 +77,8 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
@@ -112,7 +109,7 @@
 
 ###
 
-<h4 align="center">~~Under Construction~~</h4>
+<h4 align="center">U̶n̶d̶e̶r̶ ̶c̶o̶n̶s̶t̶r̶u̶c̶t̶i̶o̶n̶</h4>
 
 ###
 
