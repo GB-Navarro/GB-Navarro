@@ -1,0 +1,28 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Executa uma vez por dia
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Snake game generator from Github contributions
+        uses: Sutil/snk@v01.00.02
+        with:
+          github_user_name: GB-Navarro
+          svg_out_path: dist/snake.svg  # Define o caminho de saída para o arquivo SVG
+          snake_color: "#40916c"  # Opcional: define a cor da cobra
+
+      - name: Push the content to the repository
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
